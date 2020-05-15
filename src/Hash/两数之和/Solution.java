@@ -3,7 +3,7 @@ package Hash.两数之和;
 import java.util.HashMap;
 
 public class Solution {
-    /**
+    /** 两数之和
      * 一次哈希算法
      * https://leetcode-cn.com/problems/two-sum/
      * @param nums
@@ -23,4 +23,6 @@ public class Solution {
         }
         return null;
     }
+
+
 }

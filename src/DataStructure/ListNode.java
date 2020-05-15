@@ -1,9 +1,10 @@
 package DataStructure;
 
-public class ListNode<T> {
-    public T val;
+public class ListNode {
+    public int val;
     public ListNode next;
-    ListNode(T x) {
+    public ListNode(int x) {
         val = x;
     }
 }
+
