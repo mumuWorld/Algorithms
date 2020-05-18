@@ -1,5 +1,8 @@
 package DataStructure;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ListNode {
     public int val;
     public ListNode next;
@@ -15,8 +18,24 @@ public class ListNode {
             pre.next = new ListNode(listArr[i]);
             pre = pre.next;
         }
-        val = next.val;
-        next = next.next;
+        val = next.next.val;
+        next = next.next.next;
+    }
+
+    public List<Integer> transformArray() {
+        List<Integer> array = new ArrayList<>();
+        array.add(val);
+        ListNode preNode = next;
+        while (preNode != null) {
+            array.add(preNode.val);
+            preNode = preNode.next;
+        }
+        return array;
+    }
+
+    @Override
+    public String toString() {
+        return transformArray().toString();
     }
 }
 
