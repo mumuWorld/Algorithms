@@ -2,6 +2,9 @@ package Tree.验证二叉搜索树;
 
 import DataStructure.TreeNode;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class Solution {
     private int lastValue = Integer.MIN_VALUE;
     /**
@@ -21,5 +24,39 @@ public class Solution {
         lastValue = treeNode.val;
         boolean right = solution_1(treeNode.right);
         return right;
+    }
+
+    boolean solution_2(TreeNode root) {
+        if (root == null) return true;
+        Queue<TreeNode> nodes = new LinkedList<>();
+        //存放下界的队列
+        Queue<Integer> minQ = new LinkedList<>();
+        //存放上界的队列
+        Queue<Integer> maxQ = new LinkedList<>();
+
+        nodes.offer(root);
+        minQ.offer(null);
+        maxQ.offer(null);
+        while (!nodes.isEmpty()) {
+            TreeNode node = nodes.poll();
+            Integer min = minQ.poll();
+            Integer max = maxQ.poll();
+            if ((min != null && node.val <= min) || max != null && node.val >= max) {
+                return false;
+            }
+            TreeNode left = node.left;
+            if (left != null) {
+                nodes.offer(left);
+                minQ.offer(min);
+                maxQ.offer(node.val);
+            }
+            TreeNode right = node.right;
+            if (right != null) {
+                nodes.offer(right);
+                minQ.offer(node.val);
+                maxQ.offer(max);
+            }
+        }
+        return true;
     }
 }

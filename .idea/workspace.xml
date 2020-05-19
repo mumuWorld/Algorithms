@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/验证二叉搜索树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/验证二叉搜索树/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +16,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>HashMap</find>
-      <find>HashMap</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,7 +114,7 @@
       <workItem from="1589767966998" duration="3411000" />
       <workItem from="1589773103314" duration="99000" />
       <workItem from="1589773221077" duration="2049000" />
-      <workItem from="1589883492420" duration="2041000" />
+      <workItem from="1589883492420" duration="3410000" />
     </task>
     <servers />
   </component>
