@@ -26,6 +26,11 @@ public class Solution {
         return right;
     }
 
+    /**
+     * 层次遍历 比较上、下限
+     * @param root
+     * @return
+     */
     boolean solution_2(TreeNode root) {
         if (root == null) return true;
         Queue<TreeNode> nodes = new LinkedList<>();
