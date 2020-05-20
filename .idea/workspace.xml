@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RunManager" selected="JUnit.Test.main">
     <configuration default="true" type="Application" factoryName="Application">
@@ -118,7 +117,7 @@
       <workItem from="1589954258371" duration="55000" />
       <workItem from="1589961222148" duration="41000" />
       <workItem from="1589961294082" duration="52000" />
-      <workItem from="1589961371787" duration="3546000" />
+      <workItem from="1589961371787" duration="6303000" />
     </task>
     <servers />
   </component>
@@ -154,11 +153,11 @@
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.right/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state x="225" y="-956" key="SettingsEditor" timestamp="1589962499323">
-      <screen x="-114" y="-1057" width="1920" height="1057" />
+    <state x="246" y="68" key="SettingsEditor" timestamp="1589975101813">
+      <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state x="225" y="-956" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@-114.-1057.1920.1057" timestamp="1589962499323" />
-    <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589961933653" />
+    <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589975101813" />
     <state x="853" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589773677360">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
