@@ -39,9 +39,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="JUnit.Test.main">
+  <component name="RunManager" selected="JUnit.动态规划.打家劫舍 in Algorithms">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -72,6 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="动态规划.打家劫舍 in Algorithms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="动态规划.打家劫舍.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="动态规划.打家劫舍" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <fork_mode value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="Algorithms" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -95,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.动态规划.打家劫舍 in Algorithms" />
         <item itemvalue="JUnit.Test.main" />
       </list>
     </recent_temporary>
@@ -118,6 +138,7 @@
       <workItem from="1589961222148" duration="41000" />
       <workItem from="1589961294082" duration="52000" />
       <workItem from="1589961371787" duration="6303000" />
+      <workItem from="1592698805454" duration="4985000" />
     </task>
     <servers />
   </component>
@@ -153,11 +174,13 @@
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.right/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state x="246" y="68" key="SettingsEditor" timestamp="1589975101813">
+    <state x="240" y="298" key="SettingsEditor" timestamp="1592704045378">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state x="225" y="-956" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@-114.-1057.1920.1057" timestamp="1589962499323" />
     <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589975101813" />
+    <state x="240" y="298" key="SettingsEditor/0.23.1631.1027@0.23.1631.1027" timestamp="1592704020958" />
+    <state x="240" y="298" key="SettingsEditor/0.23.1632.1027@0.23.1632.1027" timestamp="1592704045378" />
     <state x="853" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589773677360">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
