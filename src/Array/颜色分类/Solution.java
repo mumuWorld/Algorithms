@@ -1,4 +1,4 @@
-package LinkList.颜色分类;
+package Array.颜色分类;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

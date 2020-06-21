@@ -15,12 +15,12 @@ public class Solution {
         ListNode pre = new ListNode(0); //预先指针
         ListNode cur = pre;
 
-        while (l1 != null || l2 != null) {
+        while (l1 != null || l2 != null) { //只有都为空的情况下退出循环
             int x = l1 == null ? 0 : l1.val;
             int y = l2 == null ? 0 : l2.val;
             int tmp = x + y + needPlus;
-            needPlus = tmp / 10;
-            int value = tmp % 10;
+            needPlus = tmp / 10; //判断是否需要进位
+            int value = tmp % 10; //值
             cur.next = new ListNode(value);
             cur = cur.next;
             if (l1 != null) {
