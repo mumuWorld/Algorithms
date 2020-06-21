@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/两数相加/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/两数相加/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/部分排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/部分排序/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/颜色分类/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/颜色分类/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/相交链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/相交链表/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +150,7 @@
       <workItem from="1589961294082" duration="52000" />
       <workItem from="1589961371787" duration="6303000" />
       <workItem from="1592698805454" duration="4985000" />
-      <workItem from="1592735441479" duration="5021000" />
+      <workItem from="1592735441479" duration="7434000" />
     </task>
     <servers />
   </component>
