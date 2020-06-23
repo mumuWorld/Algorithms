@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/反转链表/SolutionReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +152,8 @@
       <workItem from="1589961371787" duration="6303000" />
       <workItem from="1592698805454" duration="4985000" />
       <workItem from="1592735441479" duration="10346000" />
+      <workItem from="1592785971184" duration="355000" />
+      <workItem from="1592894024949" duration="7345000" />
     </task>
     <servers />
   </component>
@@ -200,10 +204,10 @@
     <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589975101813" />
     <state x="240" y="298" key="SettingsEditor/0.23.1631.1027@0.23.1631.1027" timestamp="1592704020958" />
     <state x="240" y="298" key="SettingsEditor/0.23.1632.1027@0.23.1632.1027" timestamp="1592704045378" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1592736571852">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1592902356854">
       <screen x="46" y="23" width="1874" height="1057" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/46.23.1874.1057/1920.-256.1080.1897@46.23.1874.1057" timestamp="1592736571852" />
+    <state width="500" height="445" key="SwitcherDM/46.23.1874.1057/1920.-256.1080.1897@46.23.1874.1057" timestamp="1592902356854" />
     <state x="853" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589773677360">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
