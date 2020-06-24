@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/反转链表/SolutionReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hash/两数之和/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/滑动窗口最大值/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/滑动窗口最大值/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.动态规划.打家劫舍 in Algorithms">
     <configuration default="true" type="Application" factoryName="Application">
@@ -153,7 +158,8 @@
       <workItem from="1592698805454" duration="4985000" />
       <workItem from="1592735441479" duration="10346000" />
       <workItem from="1592785971184" duration="355000" />
-      <workItem from="1592894024949" duration="7345000" />
+      <workItem from="1592894024949" duration="9337000" />
+      <workItem from="1592964574378" duration="2773000" />
     </task>
     <servers />
   </component>
