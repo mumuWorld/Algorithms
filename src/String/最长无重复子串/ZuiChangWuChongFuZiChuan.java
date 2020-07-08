@@ -2,7 +2,7 @@ package String.最长无重复子串;
 
 import java.util.HashMap;
 
-public class Solution {
+public class ZuiChangWuChongFuZiChuan {
     /**
      * 无重复字符的最长子串
      * https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/

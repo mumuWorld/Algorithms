@@ -6,7 +6,7 @@ public class Solution {
      * 寻找逆序对
      */
     public int[] subSort(int[] array) {
-
+        return null;
     }
 
 

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack_Queue/滑动窗口最大值/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queue/滑动窗口最大值/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -32,16 +36,30 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="JUnit.动态规划.打家劫舍 in Algorithms">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test.main">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -72,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="动态规划.打家劫舍 in Algorithms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="动态规划.打家劫舍 in Algorithms" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -114,7 +132,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.动态规划.打家劫舍 in Algorithms" />
         <item itemvalue="JUnit.Test.main" />
       </list>
     </recent_temporary>
@@ -138,7 +155,14 @@
       <workItem from="1589961222148" duration="41000" />
       <workItem from="1589961294082" duration="52000" />
       <workItem from="1589961371787" duration="6303000" />
-      <workItem from="1592698805454" duration="955000" />
+      <workItem from="1592698805454" duration="4985000" />
+      <workItem from="1592735441479" duration="10346000" />
+      <workItem from="1592785971184" duration="355000" />
+      <workItem from="1592894024949" duration="9337000" />
+      <workItem from="1592964574378" duration="3129000" />
+      <workItem from="1593235234942" duration="15000" />
+      <workItem from="1594113662702" duration="5268000" />
+      <workItem from="1594176506683" duration="2083000" />
     </task>
     <servers />
   </component>
@@ -146,18 +170,35 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589773552351">
-      <screen x="0" y="23" width="1632" height="1027" />
+    <state x="623" y="167" key="#Project_Structure" timestamp="1592735463401">
+      <screen x="46" y="23" width="1874" height="1057" />
+    </state>
+    <state x="623" y="167" key="#Project_Structure/46.23.1874.1057/1920.-256.1080.1897@46.23.1874.1057" timestamp="1592735463401" />
+    <state x="551" y="491" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594137445840">
+      <screen x="48" y="23" width="1872" height="1057" />
+    </state>
+    <state x="551" y="491" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594137445840" />
+    <state x="438" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594180735320">
+      <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589773552351" />
+    <state x="438" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594180735320" />
     <state x="690" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1589781260497">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state x="690" y="238" key="#com.intellij.ide.util.MemberChooser/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781260497" />
+    <state x="711" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594180733970">
+      <screen x="48" y="23" width="1872" height="1057" />
+    </state>
+    <state x="711" y="384" key="#com.intellij.ide.util.TreeClassChooserDialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594180733970" />
     <state x="803" y="224" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589773713954">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state x="803" y="224" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589773713954" />
+    <state x="951" y="516" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592735487562">
+      <screen x="46" y="23" width="1874" height="1057" />
+    </state>
+    <state x="951" y="516" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/46.23.1874.1057/1920.-256.1080.1897@46.23.1874.1057" timestamp="1592735487562" />
     <state width="1373" height="193" key="GridCell.Tab.0.bottom" timestamp="1589781788287">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
@@ -174,11 +215,18 @@
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.right/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state x="246" y="68" key="SettingsEditor" timestamp="1589975101813">
-      <screen x="0" y="23" width="1632" height="1027" />
+    <state x="323" y="306" key="SettingsEditor" timestamp="1594137494569">
+      <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="225" y="-956" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@-114.-1057.1920.1057" timestamp="1589962499323" />
     <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589975101813" />
+    <state x="240" y="298" key="SettingsEditor/0.23.1631.1027@0.23.1631.1027" timestamp="1592704020958" />
+    <state x="240" y="298" key="SettingsEditor/0.23.1632.1027@0.23.1632.1027" timestamp="1592704045378" />
+    <state x="323" y="306" key="SettingsEditor/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594137494569" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1592902356854">
+      <screen x="46" y="23" width="1874" height="1057" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/46.23.1874.1057/1920.-256.1080.1897@46.23.1874.1057" timestamp="1592902356854" />
     <state x="853" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589773677360">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
@@ -197,7 +245,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Test/Test.java</url>
-          <line>8</line>
+          <line>9</line>
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

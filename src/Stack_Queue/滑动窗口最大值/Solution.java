@@ -6,7 +6,7 @@ import java.util.LinkedList;
 public class Solution {
     /**
      * https://leetcode-cn.com/problems/sliding-window-maximum/
-     * 双端队列
+     * 双端队列  队首是最大值。
      */
     public int[] maxSlidingWindow(int[] nums, int k) {
         if (nums == null || nums.length == 0 || k < 1) return nums;
@@ -21,6 +21,7 @@ public class Solution {
             while (!deque.isEmpty() && nums[deque.peekLast()] < cVal) {
                 deque.pollLast();
             }
+            //当前入队
             deque.offerLast(i);
             //w是滑动窗口的左边index
             int w = i - k + 1;
