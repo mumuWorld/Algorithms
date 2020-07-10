@@ -15,6 +15,7 @@ public class ZuiChangWuChongFuZiChuan {
             int ans = 0, left = 0;
             HashMap<Character, Integer> map = new HashMap<>(); // current index of character
             for (int i = 0; i < s.length(); i++) {
+                //如果包含 标志位为 左边 和前一个index + 1.
                 if (map.containsKey(s.charAt(i))) {
                     int index = map.get(s.charAt(i));
                     left = Math.max(left, index + 1);
