@@ -87,4 +87,39 @@ public class ZuiChangHuiWenZiChuan {
         //当为回文的时候 l 和r 必定是不符合的。
         return right - left - 1;
     }
+
+    //拓展中心法优化2
+    //以连续的相同字符为拓展中心。
+    public String longestPalindrome_3(String s) {
+        if (s == null || s.length() < 2) return s;
+        char[] chars = s.toCharArray();
+        int beginIndex = 0;
+        //回文子串的长度最少为1
+        int maxLength = 1;
+        int i = 0;
+        while (i < chars.length) {
+            //左边位置
+            int l = i - 1;
+            //从右边找到第一个不等于i的位置
+            int r = i;
+            while (++r < chars.length && chars[r] == chars[i]);
+            //r 成为新的i
+            i = r;
+            //判断左边是否等于右边。
+            while (l >= 0 && r < chars.length && chars[r] == chars[l]) {
+                l--;
+                r++;
+            }
+            //拓展结束
+            int length = r - l - 1;
+            if (length > maxLength) {
+                maxLength = length;
+                beginIndex = l + 1;
+            }
+        }
+        return new String(chars, beginIndex, maxLength);
+    }
+
+        //马拉车算法
+
 }
