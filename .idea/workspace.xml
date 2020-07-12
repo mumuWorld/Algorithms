@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
+    <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/String/最长回文子串/ZuiChangHuiWenZiChuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最长回文子串/ZuiChangHuiWenZiChuan.java" afterDir="false" />
     </list>
@@ -163,12 +163,25 @@
       <workItem from="1594176506683" duration="13565000" />
       <workItem from="1594261226263" duration="7147000" />
       <workItem from="1594347860402" duration="10771000" />
-      <workItem from="1594436627130" duration="3644000" />
+      <workItem from="1594436627130" duration="5132000" />
+      <workItem from="1594533915515" duration="2051000" />
     </task>
+    <task id="LOCAL-00001" summary="回文子串">
+      <created>1594482743961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594482743961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="回文子串" />
+    <option name="LAST_COMMIT_MESSAGE" value="回文子串" />
   </component>
   <component name="WindowStateProjectService">
     <state x="623" y="167" key="#Project_Structure" timestamp="1592735463401">
@@ -204,6 +217,10 @@
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="1045" y="421" width="324" height="480" key="#xdebugger.XInspectDialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594181149657" />
+    <state x="728" y="173" key="CommitChangelistDialog2" timestamp="1594482743760">
+      <screen x="48" y="23" width="1872" height="1057" />
+    </state>
+    <state x="728" y="173" key="CommitChangelistDialog2/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594482743760" />
     <state width="1420" height="306" key="GridCell.Tab.0.bottom" timestamp="1594396893186">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>

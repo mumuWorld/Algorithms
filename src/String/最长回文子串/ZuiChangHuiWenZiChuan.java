@@ -45,7 +45,7 @@ public class ZuiChangHuiWenZiChuan {
             //以当期字符为中心 拓展
             int maxItem = palindromeLength(chars, i - 1, i + 1);
             //以间隙为中心 拓展
-            int maxSpacing = palindromeLength(chars, i,i + 1);
+            int maxSpacing = palindromeLength(chars, i, i + 1);
 //            if (maxItem > maxItem || maxSpacing > maxItem) {
 //                if (maxItem > maxSpacing) {
 //                    beginIndex = (int) (i - (maxItem - 1) * 0.5);
@@ -70,11 +70,12 @@ public class ZuiChangHuiWenZiChuan {
             beginIndex = 0;
             maxLength = 2;
         }
-        return new String(chars,beginIndex,maxLength);
+        return new String(chars, beginIndex, maxLength);
     }
 
     /**
      * 从l开始向左、从r开始向右扫描，获得的最长回文子串的长度。
+     *
      * @param cs
      * @param left
      * @param right
@@ -102,7 +103,7 @@ public class ZuiChangHuiWenZiChuan {
             int l = i - 1;
             //从右边找到第一个不等于i的位置
             int r = i;
-            while (++r < chars.length && chars[r] == chars[i]);
+            while (++r < chars.length && chars[r] == chars[i]) ;
             //r 成为新的i
             i = r;
             //判断左边是否等于右边。
@@ -120,6 +121,19 @@ public class ZuiChangHuiWenZiChuan {
         return new String(chars, beginIndex, maxLength);
     }
 
-        //马拉车算法
-
+    //马拉车算法
+    public char[]  preprocess(char[] oldCs) {
+        return oldCs;
+    }
+    /**
+     * 预处理
+     *
+     * @param s
+     * @return
+     */
+    public String longestPalindrome_4(String s) {
+        if (s == null || s.length() < 2) return s;
+        char[] chars = s.toCharArray();
+        return s;
+    }
 }
