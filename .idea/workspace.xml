@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/最长回文子串/ZuiChangHuiWenZiChuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最长回文子串/ZuiChangHuiWenZiChuan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Algorithms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Algorithms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/最长公共前缀/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最长公共前缀/ZuiChangGongGongQianZhui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/最近公共祖先/ZuiJinGongGongZuXian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/最近公共祖先/ZuiJinGongGongZuXian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +166,13 @@
       <workItem from="1594261226263" duration="7147000" />
       <workItem from="1594347860402" duration="10771000" />
       <workItem from="1594436627130" duration="5132000" />
-      <workItem from="1594533915515" duration="2051000" />
+      <workItem from="1594533915515" duration="2918000" />
+      <workItem from="1594621555414" duration="4643000" />
+      <workItem from="1594690230539" duration="8000" />
+      <workItem from="1594690253804" duration="626000" />
+      <workItem from="1594697062140" duration="40000" />
+      <workItem from="1594697120203" duration="235000" />
+      <workItem from="1594738996648" duration="1814000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -221,26 +229,26 @@
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="728" y="173" key="CommitChangelistDialog2/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594482743760" />
-    <state width="1420" height="306" key="GridCell.Tab.0.bottom" timestamp="1594396893186">
+    <state width="1406" height="203" key="GridCell.Tab.0.bottom" timestamp="1594697100382">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.bottom/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state width="1420" height="306" key="GridCell.Tab.0.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594396893186" />
-    <state width="1420" height="306" key="GridCell.Tab.0.center" timestamp="1594396893186">
+    <state width="1406" height="203" key="GridCell.Tab.0.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594697100382" />
+    <state width="1406" height="203" key="GridCell.Tab.0.center" timestamp="1594697100382">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.center/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state width="1420" height="306" key="GridCell.Tab.0.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594396893186" />
-    <state width="1420" height="306" key="GridCell.Tab.0.left" timestamp="1594396893185">
+    <state width="1406" height="203" key="GridCell.Tab.0.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594697100382" />
+    <state width="1406" height="203" key="GridCell.Tab.0.left" timestamp="1594697100382">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.left/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state width="1420" height="306" key="GridCell.Tab.0.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594396893185" />
-    <state width="1420" height="306" key="GridCell.Tab.0.right" timestamp="1594396893186">
+    <state width="1406" height="203" key="GridCell.Tab.0.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594697100382" />
+    <state width="1406" height="203" key="GridCell.Tab.0.right" timestamp="1594697100382">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state width="1373" height="193" key="GridCell.Tab.0.right/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589781788287" />
-    <state width="1420" height="306" key="GridCell.Tab.0.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594396893186" />
+    <state width="1406" height="203" key="GridCell.Tab.0.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594697100382" />
     <state width="1420" height="306" key="GridCell.Tab.1.bottom" timestamp="1594396893187">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>

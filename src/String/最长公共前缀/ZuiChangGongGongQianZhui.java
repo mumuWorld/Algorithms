@@ -1,6 +1,6 @@
 package String.最长公共前缀;
 
-public class Solution {
+public class ZuiChangGongGongQianZhui {
     /**最长公共前缀
      * https://leetcode-cn.com/problems/longest-common-prefix/solution/
      * @param strs
