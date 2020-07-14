@@ -18,7 +18,7 @@ public class ZuiDaBSTZiShu {
      * 返回以root为根节点的二叉树的最大BST子树的信息
      */
     private Info getInfo(TreeNode root) {
-
+        return null;
     }
     /**
      * 返回节点数量

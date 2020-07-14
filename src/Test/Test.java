@@ -1,4 +1,5 @@
 import DataStructure.ListNode;
+import Stack_Queue.有效括号.YouXiaoKuoHao;
 import Stack_Queue.每日温度.*;
 import String.最长回文子串.ZuiChangHuiWenZiChuan;
 import String.翻转字符串里的单词.FanZhuanZiFuChuanLiDeDanCi;
@@ -18,9 +19,10 @@ public class Test {
 //        System.out.println("aa__" + result2 + "__aa");
 //        System.out.println("aa__" + result3 + "__aa");
 
-        ZuiChangHuiWenZiChuan o = new ZuiChangHuiWenZiChuan();
-        String result = o.longestPalindrome_2("cbbd");
-        System.out.println("aa__" + result + "__aa");
-
+//        ZuiChangHuiWenZiChuan o = new ZuiChangHuiWenZiChuan();
+//        String result = o.longestPalindrome_2("cbbd");
+//        System.out.println("aa__" + result + "__aa");
+        YouXiaoKuoHao youXiaoKuoHao = new YouXiaoKuoHao();
+        youXiaoKuoHao.isValid("()[]{}");
     }
 }
