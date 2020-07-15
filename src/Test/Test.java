@@ -4,6 +4,7 @@ import Stack_Queue.有效括号.YouXiaoKuoHao;
 import Stack_Queue.每日温度.*;
 import String.最长回文子串.ZuiChangHuiWenZiChuan;
 import String.翻转字符串里的单词.FanZhuanZiFuChuanLiDeDanCi;
+import 一些资料加密.MD5加密;
 
 public class Test {
     @org.junit.Test
@@ -25,8 +26,8 @@ public class Test {
 //        System.out.println("aa__" + result + "__aa");
 //        YouXiaoKuoHao youXiaoKuoHao = new YouXiaoKuoHao();
 //        youXiaoKuoHao.isValid("()[]{}");
-        BuTongDeBSTTree buTongDeBSTTree = new BuTongDeBSTTree();
-        int result = buTongDeBSTTree.numTrees(3);
-        System.out.println("aa__" + result + "__aa");
+//        BuTongDeBSTTree buTongDeBSTTree = new BuTongDeBSTTree();
+//        int result = buTongDeBSTTree.numTrees(3);
+//        System.out.println("aa__" + result + "__aa");
     }
 }
