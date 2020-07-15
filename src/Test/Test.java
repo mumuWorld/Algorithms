@@ -1,4 +1,5 @@
 import DataStructure.ListNode;
+import DynamicProgramming.不同的二叉搜索树.BuTongDeBSTTree;
 import Stack_Queue.有效括号.YouXiaoKuoHao;
 import Stack_Queue.每日温度.*;
 import String.最长回文子串.ZuiChangHuiWenZiChuan;
@@ -22,7 +23,10 @@ public class Test {
 //        ZuiChangHuiWenZiChuan o = new ZuiChangHuiWenZiChuan();
 //        String result = o.longestPalindrome_2("cbbd");
 //        System.out.println("aa__" + result + "__aa");
-        YouXiaoKuoHao youXiaoKuoHao = new YouXiaoKuoHao();
-        youXiaoKuoHao.isValid("()[]{}");
+//        YouXiaoKuoHao youXiaoKuoHao = new YouXiaoKuoHao();
+//        youXiaoKuoHao.isValid("()[]{}");
+        BuTongDeBSTTree buTongDeBSTTree = new BuTongDeBSTTree();
+        int result = buTongDeBSTTree.numTrees(3);
+        System.out.println("aa__" + result + "__aa");
     }
 }
