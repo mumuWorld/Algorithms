@@ -1,4 +1,4 @@
-package DFS;
+package DFS.电话号码组合;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 public class 电话号码组合 {
     /**
      * https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
-     * 排列组合 用 DFS组合
+     * 排列组合 用 DFS组合  深度优先
      */
     private char[][] lettersArray = {
             {'a','b','c'},{'d','e','f'},
