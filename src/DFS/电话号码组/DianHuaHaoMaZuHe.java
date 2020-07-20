@@ -1,9 +1,9 @@
-package DFS.电话号码组合;
+package DFS.电话号码组;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class 电话号码组合 {
+public class DianHuaHaoMaZuHe {
     /**
      * https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
      * 排列组合 用 DFS组合  深度优先

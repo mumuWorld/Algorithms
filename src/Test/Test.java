@@ -1,5 +1,7 @@
 import DataStructure.ListNode;
 import DynamicProgramming.不同的二叉搜索树.BuTongDeBSTTree;
+import Hash.两数之和2.LiangShuZhiHe2;
+import Other.Pow.PowXY;
 import Stack_Queue.有效括号.YouXiaoKuoHao;
 import Stack_Queue.每日温度.*;
 import String.最长回文子串.ZuiChangHuiWenZiChuan;
@@ -29,5 +31,10 @@ public class Test {
 //        BuTongDeBSTTree buTongDeBSTTree = new BuTongDeBSTTree();
 //        int result = buTongDeBSTTree.numTrees(3);
 //        System.out.println("aa__" + result + "__aa");
+//        PowXY powXY = new PowXY();
+
+        LiangShuZhiHe2 liangShuZhiHe2 = new LiangShuZhiHe2();
+        int[] result = liangShuZhiHe2.twoSum(new int[]{2,7,11,15},9);
+        System.out.println("aa__" + result + "__aa");
     }
 }
