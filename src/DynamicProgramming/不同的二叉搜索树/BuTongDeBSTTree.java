@@ -2,7 +2,7 @@ package DynamicProgramming.不同的二叉搜索树;
 
 public class BuTongDeBSTTree {
     /**
-     * https://leetcode-cn.com/problems/unique-binary-search-trees/comments/
+     * https://leetcode-cn.com/problems/unique-binary-search-trees/
      * dp[i] 为以i为跟节点的子树个数。
      * dp[i] = f[1] + f[2] + f[3] + ... + f[i]
      * f[i] = dp[i-1] * dp[j-i]
