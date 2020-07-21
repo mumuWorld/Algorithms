@@ -9,6 +9,7 @@ public class ZiFuChuanXiangJia {
         if (num1 == null || num2 == null) return num1 == null ? num2 : num1;
         if (num1.length() == 0 || num2.length() == 0) return num1.length() == 0 ? num2 : num1;
         StringBuilder sb = new StringBuilder();
+        //从尾部开始遍历
         int i = num1.length() - 1;
         int j = num2.length() - 1;
         int plus = 0;
