@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/部分排序/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/部分排序/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="JUnit.动态规划.打家劫舍 in Algorithms">
+  <component name="RunManager" selected="JUnit.Unnamed">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -138,7 +139,8 @@
       <workItem from="1589961222148" duration="41000" />
       <workItem from="1589961294082" duration="52000" />
       <workItem from="1589961371787" duration="6303000" />
-      <workItem from="1592698805454" duration="4985000" />
+      <workItem from="1592698805454" duration="7250000" />
+      <workItem from="1593311119229" duration="38000" />
     </task>
     <servers />
   </component>
@@ -146,10 +148,11 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589773552351">
-      <screen x="0" y="23" width="1632" height="1027" />
+    <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592723377695">
+      <screen x="0" y="23" width="1631" height="1027" />
     </state>
     <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589773552351" />
+    <state x="340" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1631.1027@0.23.1631.1027" timestamp="1592723377695" />
     <state x="690" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1589781260497">
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
