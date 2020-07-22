@@ -20,7 +20,7 @@ public class TreeNode {
      * 后续遍历 非递归
      * @return
      */
-    List<Integer> Postorderraversal() {
+    public List<Integer> Postorderraversal() {
         Stack<TreeNode> mainStack = new Stack<>();
         Stack<TreeNode> helpStack = new Stack<>();
         mainStack.push(this);
