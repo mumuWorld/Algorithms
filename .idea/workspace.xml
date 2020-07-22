@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +200,7 @@
       <workItem from="1595123659647" duration="4027000" />
       <workItem from="1595259461183" duration="1691000" />
       <workItem from="1595418130210" duration="2674000" />
+      <workItem from="1595421163028" duration="679000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
