@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/字符串相加/ZiFuChuanXiangJia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/字符串相加/ZiFuChuanXiangJia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -200,6 +199,7 @@
       <workItem from="1595080739382" duration="2859000" />
       <workItem from="1595123659647" duration="4027000" />
       <workItem from="1595259461183" duration="1691000" />
+      <workItem from="1595418130210" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -306,11 +306,12 @@
     </state>
     <state width="1264" height="253" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1595326978163" />
     <state width="1368" height="223" key="GridCell.Tab.1.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1595261297967" />
-    <state x="323" y="243" key="SettingsEditor" timestamp="1594825807340">
-      <screen x="48" y="23" width="1872" height="1057" />
+    <state x="240" y="237" key="SettingsEditor" timestamp="1595418281471">
+      <screen x="0" y="23" width="1631" height="1027" />
     </state>
     <state x="225" y="-956" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@-114.-1057.1920.1057" timestamp="1589962499323" />
     <state x="246" y="68" key="SettingsEditor/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589975101813" />
+    <state x="240" y="237" key="SettingsEditor/-1920.23.1920.1057/0.23.1631.1027@0.23.1631.1027" timestamp="1595418281471" />
     <state x="240" y="298" key="SettingsEditor/0.23.1631.1027@0.23.1631.1027" timestamp="1592704020958" />
     <state x="240" y="298" key="SettingsEditor/0.23.1632.1027@0.23.1632.1027" timestamp="1592704045378" />
     <state x="323" y="243" key="SettingsEditor/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1594825807340" />
