@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class LuJingZongHe2 {
+    /**
+     * https://leetcode-cn.com/problems/path-sum-ii/
+     */
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
         List<List<Integer>> list = new ArrayList<>();
         if (root == null) return list;
