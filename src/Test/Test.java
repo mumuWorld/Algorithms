@@ -1,3 +1,4 @@
+import Array.螺旋矩阵.LuoXuanJuZhen;
 import DataStructure.ListNode;
 import DataStructure.TreeNode;
 import DynamicProgramming.不同的二叉搜索树.BuTongDeBSTTree;
@@ -9,6 +10,8 @@ import String.最长回文子串.ZuiChangHuiWenZiChuan;
 import String.翻转字符串里的单词.FanZhuanZiFuChuanLiDeDanCi;
 import Tree.最小高度树.ZuiXiaoGaoDuShu;
 import 一些资料加密.MD5加密;
+
+import java.util.List;
 
 public class Test {
     @org.junit.Test
@@ -40,5 +43,8 @@ public class Test {
         ZuiXiaoGaoDuShu o = new ZuiXiaoGaoDuShu();
         TreeNode node = o.sortedArrayToBST(new int[]{-10,-3,0,5,9});
         System.out.println("aa__" + node.Postorderraversal().toString() + "__aa");
+
+        LuoXuanJuZhen luoXuanJuZhen = new LuoXuanJuZhen();
+        List result = luoXuanJuZhen.spiralOrder(new int[][]{{1,2,3},{4,5,6},{7,8,9}});
     }
 }
