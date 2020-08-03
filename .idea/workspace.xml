@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/整数拆分/ZhengShuChaiFen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +211,8 @@
       <workItem from="1595865534838" duration="1070000" />
       <workItem from="1595951357900" duration="1434000" />
       <workItem from="1596107745864" duration="67000" />
-      <workItem from="1596107815382" duration="1276000" />
+      <workItem from="1596107815382" duration="1604000" />
+      <workItem from="1596447187223" duration="1821000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -344,10 +344,11 @@
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="649" y="102" width="586" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1595082443243" />
-    <state x="565" y="384" width="670" height="676" key="search.everywhere.popup" timestamp="1595082385712">
-      <screen x="48" y="23" width="1872" height="1057" />
+    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup" timestamp="1596448296523">
+      <screen x="0" y="23" width="1631" height="1027" />
     </state>
     <state x="451" y="374" key="search.everywhere.popup/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589883666597" />
+    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup/0.23.1631.1027/-1920.23.1920.1057@0.23.1631.1027" timestamp="1596448296523" />
     <state x="565" y="384" width="670" height="676" key="search.everywhere.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1595082385712" />
   </component>
   <component name="XDebuggerManager">
