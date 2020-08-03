@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/一维数组动态和/YiWeiArrayDongTaiHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/一维数组动态和/YiWeiArrayDongTaiHe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,6 +213,7 @@
       <workItem from="1596107745864" duration="67000" />
       <workItem from="1596107815382" duration="1604000" />
       <workItem from="1596447187223" duration="4065000" />
+      <workItem from="1596470136446" duration="2351000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -337,14 +337,15 @@
       <screen x="0" y="23" width="1632" height="1027" />
     </state>
     <state x="853" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589773677360" />
-    <state x="630" y="366" key="extract.method.dialog" timestamp="1589967468625">
-      <screen x="0" y="23" width="1632" height="1027" />
-    </state>
-    <state x="630" y="366" key="extract.method.dialog/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589967468625" />
-    <state x="649" y="102" width="586" height="735" key="find.popup" timestamp="1595082443243">
+    <state x="771" y="376" key="extract.method.dialog" timestamp="1596470974916">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
-    <state x="649" y="102" width="586" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1595082443243" />
+    <state x="630" y="366" key="extract.method.dialog/-114.-1057.1920.1057/0.23.1632.1027@0.23.1632.1027" timestamp="1589967468625" />
+    <state x="771" y="376" key="extract.method.dialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1596470974916" />
+    <state x="308" y="146" width="881" height="735" key="find.popup" timestamp="1596472225455">
+      <screen x="48" y="23" width="1872" height="1057" />
+    </state>
+    <state x="308" y="146" width="881" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1596472225455" />
     <state x="450" y="374" width="670" height="657" key="search.everywhere.popup" timestamp="1596448296523">
       <screen x="0" y="23" width="1631" height="1027" />
     </state>
