@@ -2,6 +2,9 @@ package Array.一维数组动态和;
 
 import DataStructure.ArrayTools;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class YiWeiArrayDongTaiHe {
     /** 一维数组动态和
      *
@@ -30,9 +33,17 @@ public class YiWeiArrayDongTaiHe {
         int[] results = new int[nums.length];
         int left = 0;
         int right = n;
+        boolean isLeft = true;
         for (int i = 0; i < nums.length; i++) {
-            
+            if (isLeft) {
+                results[i] = nums[left++];
+                isLeft = false;
+            } else {
+                results[i] = nums[right++];
+                isLeft = true;
+            }
         }
+        return results;
     }
 
 }

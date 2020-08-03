@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/一维数组动态和/YiWeiArrayDongTaiHe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/一维数组动态和/YiWeiArrayDongTaiHe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,7 @@
       <workItem from="1595951357900" duration="1434000" />
       <workItem from="1596107745864" duration="67000" />
       <workItem from="1596107815382" duration="1604000" />
-      <workItem from="1596447187223" duration="1821000" />
+      <workItem from="1596447187223" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
