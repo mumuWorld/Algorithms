@@ -7,7 +7,7 @@ import java.util.List;
 
 public class YiWeiArrayDongTaiHe {
     /** 一维数组动态和
-     *
+     * https://leetcode-cn.com/problems/running-sum-of-1d-array/
      * @param nums
      * @return
      */
