@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/删除排序数组中的重复项/ShanChuArrayChongFuXiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/删除排序数组中的重复项/ShanChuArrayChongFuXiang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/验证二叉搜索树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/验证二叉搜索树/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +216,7 @@
       <workItem from="1596107815382" duration="1604000" />
       <workItem from="1596447187223" duration="4065000" />
       <workItem from="1596470136446" duration="2510000" />
-      <workItem from="1596553086508" duration="1429000" />
+      <workItem from="1596553086508" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
