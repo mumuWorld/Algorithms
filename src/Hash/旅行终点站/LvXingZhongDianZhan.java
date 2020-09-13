@@ -1,8 +1,8 @@
 package Hash.旅行终点站;
 
-import com.sun.tools.javac.util.List;
 
 import java.util.HashMap;
+import java.util.List;
 
 public class LvXingZhongDianZhan {
     /** https://leetcode-cn.com/problems/destination-city/
