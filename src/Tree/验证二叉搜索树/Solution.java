@@ -26,7 +26,7 @@ public class Solution {
         return right;
     }
 
-    /**
+    /**  https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/
      * 层次遍历 比较上、下限
      * @param root
      * @return
@@ -52,6 +52,7 @@ public class Solution {
             TreeNode left = node.left;
             if (left != null) {
                 nodes.offer(left);
+                //入队
                 minQ.offer(min);
                 maxQ.offer(node.val);
             }
