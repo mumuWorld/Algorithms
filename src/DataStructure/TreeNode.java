@@ -7,6 +7,7 @@ import java.util.Stack;
 public class TreeNode {
     public TreeNode left;
     public TreeNode right;
+    public TreeNode next;
     public int val;
 
     public TreeNode() {
