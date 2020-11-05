@@ -2,7 +2,6 @@ package LinkList.删除链表倒数第N个节点;
 
 import DataStructure.ListNode;
 
-import java.util.List;
 
 public class DeleteDaoShuNGeJieDian {
     public ListNode removeNthFromEnd(ListNode head, int n) {
