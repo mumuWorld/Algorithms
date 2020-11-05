@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkList/删除链表倒数第N个节点/DeleteDaoShuNGeJieDian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/删除链表倒数第N个节点/DeleteDaoShuNGeJieDian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +221,7 @@
       <workItem from="1604375760931" duration="4458000" />
       <workItem from="1604456420769" duration="416000" />
       <workItem from="1604494265525" duration="1462000" />
-      <workItem from="1604559873919" duration="1529000" />
+      <workItem from="1604559873919" duration="2193000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
