@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/最长无重复子串/ZuiChangWuChongFuZiChuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最长无重复子串/ZuiChangWuChongFuZiChuan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +230,8 @@
       <workItem from="1604559873919" duration="2758000" />
       <workItem from="1604995097427" duration="9156000" />
       <workItem from="1605059828106" duration="5232000" />
-      <workItem from="1605089194897" duration="1837000" />
+      <workItem from="1605089194897" duration="3115000" />
+      <workItem from="1605148330532" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>

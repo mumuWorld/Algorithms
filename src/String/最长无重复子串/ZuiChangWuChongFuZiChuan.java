@@ -26,4 +26,27 @@ public class ZuiChangWuChongFuZiChuan {
             }
             return ans;
         }
+
+    public int lengthOfLongestSubstring_m2(String s) {
+        if (s == null) return 0;
+        if (s.length() < 2) return s.length();
+        int left = 0, right = 0;
+        int res = 0;
+        HashMap<Character, Integer> window = new HashMap<>(); // current index of character
+
+        while (right < s.length()) {
+            Character cur = s.charAt(right);
+            right += 1;
+            window.put(cur, window.getOrDefault(cur, 0) + 1);
+            while (window.getOrDefault(cur, 0) > 1) {
+                Character leftCur = s.charAt(left);
+                left += 1;
+                window.put(leftCur, window.getOrDefault(leftCur, 0) - 1);
+            }
+            res = Math.max(res, right - left);
+        }
+        return res;
+    }
+
+
 }
