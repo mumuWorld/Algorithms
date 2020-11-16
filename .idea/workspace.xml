@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/最长无重复子串/ZuiChangWuChongFuZiChuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最长无重复子串/ZuiChangWuChongFuZiChuan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +230,8 @@
       <workItem from="1604995097427" duration="9156000" />
       <workItem from="1605059828106" duration="5232000" />
       <workItem from="1605089194897" duration="3115000" />
-      <workItem from="1605148330532" duration="1282000" />
+      <workItem from="1605148330532" duration="1708000" />
+      <workItem from="1605260599703" duration="2545000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -303,23 +303,16 @@
     <state width="1478" height="140" key="GridCell.Tab.1.right/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593211" />
     <state width="1289" height="208" key="GridCell.Tab.1.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
     <state width="1415" height="73" key="GridCell.Tab.1.right/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752766" />
-    <state x="1963" y="243" key="SettingsEditor" timestamp="1605061847235">
+    <state x="1963" y="243" key="SettingsEditor" timestamp="1605263334884">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
+    <state x="1963" y="243" key="SettingsEditor/1680.23.1920.1057/48.23.1632.1027@1680.23.1920.1057" timestamp="1605263334884" />
     <state x="1963" y="243" key="SettingsEditor/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605061847235" />
     <state x="323" y="243" key="SettingsEditor/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599990245353" />
     <state x="289" y="237" key="SettingsEditor/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1604997734790" />
-    <state x="771" y="376" key="extract.method.dialog" timestamp="1596470974916">
-      <screen x="48" y="23" width="1872" height="1057" />
-    </state>
-    <state x="771" y="376" key="extract.method.dialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1596470974916" />
     <state x="655" y="240" width="881" height="735" key="find.popup" timestamp="1599989804758">
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="655" y="240" width="881" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599989804758" />
-    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup" timestamp="1596448296523">
-      <screen x="0" y="23" width="1631" height="1027" />
-    </state>
-    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup/0.23.1631.1027/-1920.23.1920.1057@0.23.1631.1027" timestamp="1596448296523" />
   </component>
 </project>
