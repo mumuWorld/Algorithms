@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/两数相加/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/两数相加/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/删除中间节点/ShanChuZhongJianJieDian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/删除中间节点/ShanChuZhongJianJieDian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/删除链表倒数第N个节点/DeleteDaoShuNGeJieDian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/删除链表倒数第N个节点/DeleteDaoShuNGeJieDian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,17 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="PACKAGE_NAME" value="" />
@@ -168,7 +160,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -278,60 +270,53 @@
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.0.bottom/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593210" />
-    <state width="1289" height="208" key="GridCell.Tab.0.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398547" />
     <state width="1415" height="73" key="GridCell.Tab.0.bottom/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752764" />
     <state width="1478" height="140" key="GridCell.Tab.0.center" timestamp="1605069593210">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.0.center/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593210" />
-    <state width="1289" height="208" key="GridCell.Tab.0.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
     <state width="1415" height="73" key="GridCell.Tab.0.center/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752763" />
     <state width="1478" height="140" key="GridCell.Tab.0.left" timestamp="1605069593209">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.0.left/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593209" />
-    <state width="1289" height="208" key="GridCell.Tab.0.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
     <state width="1415" height="73" key="GridCell.Tab.0.left/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752762" />
     <state width="1478" height="140" key="GridCell.Tab.0.right" timestamp="1605069593210">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.0.right/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593210" />
-    <state width="1289" height="208" key="GridCell.Tab.0.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
     <state width="1415" height="73" key="GridCell.Tab.0.right/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752764" />
     <state width="1478" height="140" key="GridCell.Tab.1.bottom" timestamp="1605069593211">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.1.bottom/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593211" />
-    <state width="1289" height="208" key="GridCell.Tab.1.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
     <state width="1415" height="73" key="GridCell.Tab.1.bottom/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752766" />
     <state width="1478" height="140" key="GridCell.Tab.1.center" timestamp="1605069593211">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.1.center/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593211" />
-    <state width="1289" height="208" key="GridCell.Tab.1.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
     <state width="1415" height="73" key="GridCell.Tab.1.center/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752765" />
     <state width="1478" height="140" key="GridCell.Tab.1.left" timestamp="1605069593211">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.1.left/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593211" />
-    <state width="1289" height="208" key="GridCell.Tab.1.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398724" />
     <state width="1415" height="73" key="GridCell.Tab.1.left/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752765" />
     <state width="1478" height="140" key="GridCell.Tab.1.right" timestamp="1605069593211">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1478" height="140" key="GridCell.Tab.1.right/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605069593211" />
-    <state width="1289" height="208" key="GridCell.Tab.1.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
     <state width="1415" height="73" key="GridCell.Tab.1.right/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752766" />
     <state x="1963" y="243" key="SettingsEditor" timestamp="1605263334884">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="1963" y="243" key="SettingsEditor/1680.23.1920.1057/48.23.1632.1027@1680.23.1920.1057" timestamp="1605263334884" />
     <state x="1963" y="243" key="SettingsEditor/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605061847235" />
-    <state x="323" y="243" key="SettingsEditor/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599990245353" />
     <state x="289" y="237" key="SettingsEditor/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1604997734790" />
-    <state x="655" y="240" width="881" height="735" key="find.popup" timestamp="1599989804758">
-      <screen x="48" y="23" width="1872" height="1057" />
+    <state x="537" y="79" width="567" height="715" key="find.popup" timestamp="1611575163563">
+      <screen x="56" y="25" width="1624" height="1025" />
     </state>
-    <state x="655" y="240" width="881" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599989804758" />
+    <state x="2249" y="81" width="602" height="735" key="find.popup/1680.25.1920.1055/54.25.1626.1025@1680.25.1920.1055" timestamp="1611563542999" />
+    <state x="536" y="79" width="567" height="715" key="find.popup/1680.25.1920.1055/54.25.1626.1025@54.25.1626.1025" timestamp="1611567208405" />
+    <state x="537" y="79" width="567" height="715" key="find.popup/1680.25.1920.1055/56.25.1624.1025@56.25.1624.1025" timestamp="1611575163563" />
   </component>
 </project>
