@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/String/最小覆盖子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/最小覆盖子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkList/回文链表/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/DFS/路径总和2/LuJingZongHe2.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="Test.main" />
+    </enabled-run-configurations>
+  </component>
   <component name="ProjectId" id="1c41YICXWM8ovlsKMdv1SYtQ5Ia" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -41,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -53,14 +58,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test.main">
+  <component name="RunManager" selected="Application.MD5加密">
     <configuration name="MD5加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="一些资料加密.MD5加密" />
       <module name="Algorithms" />
@@ -147,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test.main" />
         <item itemvalue="Application.MD5加密" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -224,7 +230,16 @@
       <workItem from="1604494265525" duration="1462000" />
       <workItem from="1604559873919" duration="2758000" />
       <workItem from="1604995097427" duration="9156000" />
-      <workItem from="1605059828106" duration="1573000" />
+      <workItem from="1605059828106" duration="5232000" />
+      <workItem from="1605089194897" duration="3115000" />
+      <workItem from="1605148330532" duration="1708000" />
+      <workItem from="1605260599703" duration="2545000" />
+      <workItem from="1611542857466" duration="812000" />
+      <workItem from="1611490671894" duration="977000" />
+      <workItem from="1611491841914" duration="14000" />
+      <workItem from="1611491896289" duration="3000" />
+      <workItem from="1611492055721" duration="4000" />
+      <workItem from="1611492826337" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -237,91 +252,14 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="回文子串" />
     <option name="LAST_COMMIT_MESSAGE" value="回文子串" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1415" height="73" key="GridCell.Tab.0.bottom" timestamp="1605012752764">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.0.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398547" />
-    <state width="1415" height="73" key="GridCell.Tab.0.bottom/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752764" />
-    <state width="1415" height="73" key="GridCell.Tab.0.center" timestamp="1605012752763">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.0.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
-    <state width="1415" height="73" key="GridCell.Tab.0.center/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752763" />
-    <state width="1415" height="73" key="GridCell.Tab.0.left" timestamp="1605012752762">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.0.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
-    <state width="1415" height="73" key="GridCell.Tab.0.left/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752762" />
-    <state width="1415" height="73" key="GridCell.Tab.0.right" timestamp="1605012752764">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.0.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398546" />
-    <state width="1415" height="73" key="GridCell.Tab.0.right/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752764" />
-    <state width="1415" height="73" key="GridCell.Tab.1.bottom" timestamp="1605012752766">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.1.bottom/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
-    <state width="1415" height="73" key="GridCell.Tab.1.bottom/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752766" />
-    <state width="1415" height="73" key="GridCell.Tab.1.center" timestamp="1605012752765">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.1.center/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
-    <state width="1415" height="73" key="GridCell.Tab.1.center/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752765" />
-    <state width="1415" height="73" key="GridCell.Tab.1.left" timestamp="1605012752765">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.1.left/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398724" />
-    <state width="1415" height="73" key="GridCell.Tab.1.left/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752765" />
-    <state width="1415" height="73" key="GridCell.Tab.1.right" timestamp="1605012752766">
-      <screen x="49" y="23" width="1631" height="1027" />
-    </state>
-    <state width="1289" height="208" key="GridCell.Tab.1.right/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1600003398725" />
-    <state width="1415" height="73" key="GridCell.Tab.1.right/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1605012752766" />
-    <state x="1963" y="243" key="SettingsEditor" timestamp="1605061847235">
-      <screen x="1680" y="23" width="1920" height="1057" />
-    </state>
-    <state x="1963" y="243" key="SettingsEditor/1680.23.1920.1057/49.23.1631.1027@1680.23.1920.1057" timestamp="1605061847235" />
-    <state x="323" y="243" key="SettingsEditor/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599990245353" />
-    <state x="289" y="237" key="SettingsEditor/49.23.1631.1027/1680.23.1920.1057@49.23.1631.1027" timestamp="1604997734790" />
-    <state x="771" y="376" key="extract.method.dialog" timestamp="1596470974916">
-      <screen x="48" y="23" width="1872" height="1057" />
-    </state>
-    <state x="771" y="376" key="extract.method.dialog/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1596470974916" />
-    <state x="655" y="240" width="881" height="735" key="find.popup" timestamp="1599989804758">
-      <screen x="48" y="23" width="1872" height="1057" />
-    </state>
-    <state x="655" y="240" width="881" height="735" key="find.popup/48.23.1872.1057/1920.-256.1080.1897@48.23.1872.1057" timestamp="1599989804758" />
-    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup" timestamp="1596448296523">
-      <screen x="0" y="23" width="1631" height="1027" />
-    </state>
-    <state x="450" y="374" width="670" height="657" key="search.everywhere.popup/0.23.1631.1027/-1920.23.1920.1057@0.23.1631.1027" timestamp="1596448296523" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test/Test.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test/Test.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test/Test.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

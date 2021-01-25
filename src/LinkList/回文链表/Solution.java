@@ -4,6 +4,7 @@ import LinkList.反转链表.SolutionReverse;
 import DataStructure.ListNode;
 
 import java.util.List;
+import java.util.logging.Level;
 
 public class Solution {
     /**
@@ -30,7 +31,7 @@ public class Solution {
     }
 
     /**
-     * 查找中点链表。 快慢指针
+     * 查找中点链表。 快慢指针 ，右半部分链表的头结点。
      * @param head
      * @return
      */
@@ -44,16 +45,46 @@ public class Solution {
         return slow;
     }
 
-//默写一遍反转链表
-     public void reverseNode2(ListNode head) {
-        ListNode pre = null;
-         ListNode tmp = null;
-         while (head != null) {
-             tmp = head.next;
-             head.next = pre;
-             pre = head;
-             head = tmp;
-         }
+
+    /** https://leetcode-cn.com/problems/palindrome-linked-list-lcci/
+     *  面试题 02.06. 回文链表
+     * @param head
+     * @return
+     */
+    public boolean isPalindrome_2(ListNode head) {
+        if (head == null || head.next == null) return true;
+        if (head.next.next == null) return head.val == head.next.val;
+        ListNode lHead = head;
+        ListNode middle = middleNode_2(head);
+        ListNode rHead = reverseList_2(middle.next);
+        while (lHead != null && rHead != null) {
+            if (lHead.val != rHead.val) return false;
+            lHead = lHead.next;
+            rHead = rHead.next;
+        }
+        return true;
     }
 
+    public ListNode middleNode_2(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast.next != null && fast.next.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        return slow;
+    }
+
+
+    public ListNode reverseList_2(ListNode head) {
+        ListNode pre = null;
+        ListNode tmp;
+        while (head != null) {
+            tmp = head.next;
+            head.next = pre;
+            pre = head;
+            head = tmp;
+        }
+        return pre;
+    }
 }
