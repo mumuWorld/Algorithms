@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e31d8c-91d8-463b-aea6-a72950ddda05" name="Default" comment="回文子串">
-      <change beforePath="$PROJECT_DIR$/src/Sort/SortTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/SortTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +67,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.MD5加密">
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="Algorithms" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
-      <fork_mode value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MD5加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="一些资料加密.MD5加密" />
       <module name="Algorithms" />
@@ -135,6 +123,18 @@
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <fork_mode value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="Algorithms" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
       <fork_mode value="method" />
@@ -233,6 +233,7 @@
       <workItem from="1605089194897" duration="3115000" />
       <workItem from="1605148330532" duration="1708000" />
       <workItem from="1605260599703" duration="2545000" />
+      <workItem from="1611542857466" duration="812000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
