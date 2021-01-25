@@ -50,7 +50,7 @@ public class TreeOrder {
         return result;
     }
 
-    /** 层次遍历
+    /** 层次遍历  广度优先
      *  https://leetcode-cn.com/problems/binary-tree-level-order-traversal/
      * @param root
      * @return
@@ -78,5 +78,28 @@ public class TreeOrder {
             result.add(tmp);
         }
         return result;
+    }
+
+    /**
+     * 深度遍历  用栈实现。
+     * @param node
+     */
+    public void depthTraversal(TreeNode node){
+        if(node==null){
+            System.out.print("empty tree");
+            return;
+        }
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        stack.push(node);
+        while(!stack.isEmpty()){
+            TreeNode rnode = stack.pop();
+            System.out.print(rnode.val);
+            if(rnode.right!=null){
+                stack.push(rnode.right);
+            }
+            if(rnode.left!=null){
+                stack.push(rnode.left);
+            }
+        }
     }
 }

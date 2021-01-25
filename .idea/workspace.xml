@@ -87,6 +87,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="PACKAGE_NAME" value="" />
@@ -157,6 +168,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -234,6 +246,11 @@
       <workItem from="1605148330532" duration="1708000" />
       <workItem from="1605260599703" duration="2545000" />
       <workItem from="1611542857466" duration="812000" />
+      <workItem from="1611490671894" duration="977000" />
+      <workItem from="1611491841914" duration="14000" />
+      <workItem from="1611491896289" duration="3000" />
+      <workItem from="1611492055721" duration="4000" />
+      <workItem from="1611492826337" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="回文子串">
       <created>1594482743961</created>
@@ -246,7 +263,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="回文子串" />
