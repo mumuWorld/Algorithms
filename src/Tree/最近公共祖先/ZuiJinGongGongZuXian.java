@@ -20,4 +20,6 @@ public class ZuiJinGongGongZuXian {
         if (leftP != null && rightP != null) return root;
         return leftP == null ? rightP : leftP;
     }
+
+
 }
