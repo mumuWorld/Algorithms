@@ -47,4 +47,27 @@ public class SimpleLinkList {
         }
         return arr;
     }
+
+
+    /** https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
+     *  83. 删除排序链表中的重复元素
+     * @param head
+     * @return
+     */
+    public ListNode deleteDuplicates(ListNode head) {
+        ListNode newHead = head;
+        int val = Integer.MAX_VALUE;
+        ListNode pre = head;
+        while (newHead != null) {
+            if (newHead.val == val) {
+                pre.next = newHead.next;
+                newHead = newHead.next;
+                continue;
+            }
+            val = newHead.val;
+            pre = newHead;
+            newHead = newHead.next;
+        }
+        return head;
+    }
 }
