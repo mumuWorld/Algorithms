@@ -7,7 +7,7 @@ public class LinkListTest {
         test.toCharArray();
         ListNode pre = null;
         ListNode tmp = null;
-     
+
     }
 
 
